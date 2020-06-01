@@ -1,0 +1,19 @@
+{
+  "name": "youtubeclone",
+  "version": "1.0.0",
+  "description": "Youtube Clone with Vanilla and Node JS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moo2za/youtubeClone.git"
+  },
+  "author": "Hyun Ju, Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moo2za/youtubeClone/issues"
+  },
+  "homepage": "https://github.com/moo2za/youtubeClone#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
